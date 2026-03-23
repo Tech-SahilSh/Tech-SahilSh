@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sahil Sheikh!
 
-🎓 MCA Graduate from **G H Raisoni College of Engineering and Management, Nagpur** with 9.83 GPA
+🎓 MCA Graduate from **G H Raisoni College of Engineering and Management, Nagpur with 9.83 GPA** 
 💻 Working at at **PHN Technology Pvt. Ltd., Pune**  
 📍 Passionate about Java Development, Web Applications, and Ai/ML 
 🌱 Currently exploring **How we can make Ai System using a robust language like Java**
