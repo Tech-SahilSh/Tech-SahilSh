@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Sahil Sheikh!
 
-🎓 MCA Final Year Student at **G H Raisoni College of Engineering and Management, Nagpur**  
-💻 Java Backend Intern at **RTSoft Solution**  
-📍 Passionate about Java Development, Web Applications, and CRM Systems  
-🌱 Currently exploring **Salesforce Development**
+🎓 MCA Graduate from **G H Raisoni College of Engineering and Management, Nagpur** with 9.83 GPA
+💻 Working at at **PHN Technology Pvt. Ltd., Pune**  
+📍 Passionate about Java Development, Web Applications, and Ai/ML 
+🌱 Currently exploring **How we can make Ai System using a robust language like Java**
 
 ---
 
